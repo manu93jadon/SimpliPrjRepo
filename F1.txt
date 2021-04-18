@@ -1,2 +1,2 @@
 Code Line 1 of Feature 1
-Code Line 2 of Feature 2
+Code Line 2 plus bug fix of Feature 2
